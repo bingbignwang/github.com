@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # 关于我
+王冰，女，上海大学计算机工程与科学学院，教授。上海市东方学者入选者 （2017），日本学术振兴学会（JSPS）外国人特别研究员入选者（2009）。主要研究领域为复杂网络，数据分析与建模等与复杂性科学相关的研究，研究兴趣包括网络分析与建模、网络传播等。2006年毕业于大连理工大学应用数学系运筹学与控制论专业获博士学位。
 # 研究方向
 # 发表论文
 # 承担项目
